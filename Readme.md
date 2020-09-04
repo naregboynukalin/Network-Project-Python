@@ -4,7 +4,7 @@ This is a p2p file sharing application developed with Python language using sock
 
 ## Getting Started
 
-Copy the [YAN]_[Service_Listener],  [YAN]_[Service_Announcer],  [YAN]_[P2P_Downloader],  [YAN]_[P2P_Server] files in a folder.
+Copy the Service_Listener, Service_Announcer,  P2P_Downloader,  P2P_Server files in a folder.
 
 ### Prerequisites
 
