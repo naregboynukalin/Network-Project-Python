@@ -26,8 +26,5 @@ Let's say you have a file which is called "file.txt" in your folder.
 3) Run Service_Listener and see the result. It will show you usernames , ip adresses,files and chunks in 60s periods.
 4) Run P2P_Downloader , you can enter any file name you want but now lets say "file.txt". Then enter the ip adress of the server you want to connect. You can see the ip adress from Service_Listener. For now, you are the server of yours but if you connect with hamachi network with some people , you will see more servers on Service_Listener.
 
-## Authors
-
-Nareg Boynukalın&Yankı Kasaroğlu&Atılay Uzunlar
 
 
